@@ -21,6 +21,7 @@ Diese App hilft Benutzern, ihren Wortschatz durch ein interaktives Karteikarten-
 * Python 3.14
 * Markdown
 * Tkinter
+* SQLite3
 
 ---
 
